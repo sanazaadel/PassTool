@@ -7,3 +7,4 @@ PassTool is a Python application that generates secure passwords using various a
 ## Requirements
 - Python 3.6 or higher
 - NLTK library
+- Streamlit library
